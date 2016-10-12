@@ -1,0 +1,8 @@
+﻿{
+  "dependencies": {
+    "NuGet.Build.Packaging": "0.1.98-dev"
+  },
+  "frameworks": {
+    "net45": {}
+  }
+}
